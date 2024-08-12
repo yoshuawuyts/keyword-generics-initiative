@@ -20,7 +20,7 @@
 - [📚 Draft RFCs](./explainer/README.md)
   - [1. Effect-Generic Trait Declarations](./explainer/effect-generic-trait-declarations.md)
   - [2. Effect-Generic Bounds and Functions](./explainer/effect-generic-bounds-and-functions.md)
-  - [3. Effect-Generic Types]()
+  - [3. Effect-Generic Types](./explainer/effect-generic-types.md)
   - [4. Effect Sets and Aliases]()
 - [📦 Archive](./archive/README.md)
   - [Effects in Rust](./archive/evaluation/effects-in-rust.md)
